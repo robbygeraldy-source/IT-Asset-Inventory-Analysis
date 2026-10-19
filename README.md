@@ -215,7 +215,7 @@ This project demonstrates how IT asset inventory data can be transformed into st
 The analysis provides a foundation for improving asset traceability, inventory accuracy, and the reliability of management reporting.
 
 ## 📊 Preview Dashboard & Visualisasi
-![IT Asset Dashboard Preview](Power%20BI/dashboard_preview.png)
+![IT Asset Dashboard Preview](Power%20BI/dashboard_preview.png..jpeg)
 
 Author: Robby Geraldy Pratama
 Role: Aspiring Data Analyst
