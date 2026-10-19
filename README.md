@@ -186,7 +186,6 @@ IT-Asset-Inventory-Analysis/
     └── dashboard.png
 ```
 
-*Note:The filenames above are a suggested structure. Use the actual filenames of your saved project files when uploading the repository.
 
 Project Outcomes
 
